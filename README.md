@@ -146,12 +146,3 @@ La API implementa autenticación con **JWT (JSON Web Token)**.
 | **POST**   | `/api/pedidos/{pedidoId}/detalles` | Crear detalle del pedido | ADMIN / USER |
 
 ---
-
-## 🧪 Colección de Postman
-
-Puedes importar esta colección en Postman para probar todos los endpoints de forma rápida:
-
-📥 [Descargar colección Postman](thekingmoss-postman-collection.json)
-
-> Recuerda usar el token JWT obtenido en el login para autorizar tus peticiones protegidas:
-

@@ -154,14 +154,4 @@ Puedes importar esta colección en Postman para probar todos los endpoints de fo
 📥 [Descargar colección Postman](thekingmoss-postman-collection.json)
 
 > Recuerda usar el token JWT obtenido en el login para autorizar tus peticiones protegidas:
->
-> **Header**:  
-> `Authorization: Bearer <tu_token_aquí>`
----
-
-## 🧑 Autor
-
-🔗 [GitHub - Daniel-JA03](https://github.com/Daniel-JA03 )  
-🎓 [Mi portafolio](https://portafolio-danielja.netlify.app/ ) | 📍 Lima, Perú  
-
 
